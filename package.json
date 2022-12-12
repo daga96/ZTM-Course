@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "commitlint": "^17.3.0"
+  }
+}
